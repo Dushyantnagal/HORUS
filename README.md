@@ -8,7 +8,7 @@ HORUS is a Windows ransomware canary system that detects threats using the Event
 
 It is designed to be an all-in-one, "run and forget" solution. It automatically configures Windows auditing, deploys canaries, and monitors for attacks in real-time.
 
-
+ 
 
 ## 📖 Introduction
 
